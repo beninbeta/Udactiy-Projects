@@ -1,0 +1,31 @@
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.container {
+    margin-right: 10px;
+    display: flex;
+    max-width: 600px;
+    flex-wrap: wrap;
+    border: 5px solid black;
+}
+
+.box {
+    font-size: 30px;
+    font-weight: bold;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+
+.yellow {
+    background-color: #8bc2e2;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
